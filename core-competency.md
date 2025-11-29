@@ -1,6 +1,6 @@
 ---
 title: Core Competencies
-permalink: /Core Competencies/
+permalink: /core-competency/
 ---
 
 # Core Competencies
