@@ -17,7 +17,7 @@ Strategic Business Analyst and Market Research Professional with years of experi
 
 **Certification**  
 Cerified Scrum Master.
-Financial Literacy and Inclusion, Asian Development Bank (ADB).
+Financial Literacy and Inclusion, Asian Development Bank (ADB). 
 Agile, Digital Transformation and AI for Everyone: Coursera. 
 
 **Extra Curricular**  
