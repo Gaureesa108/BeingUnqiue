@@ -1,3 +1,6 @@
 title: BeingUnique
 description: Apurva Aabhas – personal blog and creative space
 theme: minima
+header_pages:
+  - index.md
+  - about.md
