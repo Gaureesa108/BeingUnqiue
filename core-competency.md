@@ -20,4 +20,4 @@ Here are some highlights of my core competencies:
 - **Go-to-Market Strategy**
 - **Cross Functional Team Collaboration**
 - **Government & Corporate Liaison**
-- **Creative Communication**   
+- **Creative Communication**
