@@ -1,5 +1,8 @@
-# BeingUnqiue
-Apurva Aabhas
+# BeingUnique
+
+**Apurva Aabhas**  
+Welcome to my personal blog and creative space. I share thoughts, reflections, and visuals that celebrate uniqueness and authenticity.
+
 ---
 
 **License Notice**  
