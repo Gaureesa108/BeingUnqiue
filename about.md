@@ -32,13 +32,16 @@ Runner-up of Inter-College Quiz Competition, Oranised by the Bombay Management A
 
 Here are some of the organisations I’ve contributed to:
 
-![DBS Bank](/DBS_Bank_logo_logotype_Co1.jpg)  
-![ICICI Bank](/ICICI Bank_Co2.jpg)  
-![Mahindra & Mahindra](/MM_Co3.png)  
-![BLC](/BLC_Co4.png)  
-![Aranca](/aranca_logo_Co5.jpg)  
-![Invent](/Invent_Co6.webp)  
-![NASSCOM](/nasscom_Co7.png)
+<div style="display:flex; gap:16px; align-items:center; flex-wrap:wrap;">
+  <img src="./DBS_Bank_logo_logotype_Co1.jpg" alt="DBS Bank logo" style="height:56px; width:auto;">
+  <img src="./ICICI_Bank_Co2.jpg" alt="ICICI Bank logo" style="height:56px; width:auto;">
+  <img src="./MM_Co3.png" alt="Mahindra & Mahindra logo" style="height:56px; width:auto;">
+  <img src="./BLC_Co4.png" alt="BLC logo" style="height:56px; width:auto;">
+  <img src="./aranca_logo_Co5.jpg" alt="Aranca logo" style="height:56px; width:auto;">
+  <img src="./Invent_Co6.webp" alt="Invent logo" style="height:56px; width:auto;">
+  <img src="./nasscom_Co7.png" alt="NASSCOM logo" style="height:56px; width:auto;">
+</div>
+style="height:56px; width:auto; max-width:160px;"
 
 This blog reflects my journey, ideas, and visuals that celebrate uniqueness.  
 I value clarity, authenticity, and audience-focused storytelling. Welcome to my creative space.
