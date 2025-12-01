@@ -32,7 +32,14 @@ Runner-up of Inter-College Quiz Competition, Oranised by the Bombay Management A
 
 Here are some of the organisations I’ve contributed to:
 
-
+<div style="display:flex; gap:16px; align-items:center; flex-wrap:wrap;">
+  <img src="https://gaureesa108.github.io/BeingUnique/DBS_Bank_logo_logotype_Co1.jpg" alt="DBS Bank logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/ICICI_Bank_Co2_2.jpg" alt="ICICI Bank logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/MarketsandMarkets_Co3.png" alt="MarketsandMarkets logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/BLC_Co4.png" alt="Bluelotus Communications logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/aranca_logo_Co5.jpg" alt="Aranca logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/nasscom_Co7.png" alt="NASSCOM logo" style="height:56px; width:auto;">
+</div>
 
 This blog reflects my journey, ideas, and visuals that celebrate uniqueness.  
 I value clarity, authenticity, and audience-focused storytelling. Welcome to my creative space.
