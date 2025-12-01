@@ -41,7 +41,6 @@ Here are some of the organisations I’ve contributed to:
   <img src="./Invent_Co6.webp" alt="Invent logo" style="height:56px; width:auto;">
   <img src="./nasscom_Co7.png" alt="NASSCOM logo" style="height:56px; width:auto;">
 </div>
-style="height:56px; width:auto; max-width:160px;"
 
 This blog reflects my journey, ideas, and visuals that celebrate uniqueness.  
 I value clarity, authenticity, and audience-focused storytelling. Welcome to my creative space.
