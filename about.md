@@ -34,7 +34,7 @@ Here are some of the organisations I’ve contributed to:
 
 <div style="display:flex; gap:16px; align-items:center; flex-wrap:wrap;">
   <img src="./DBS_Bank_logo_logotype_Co1.jpg" alt="DBS Bank logo" style="height:56px; width:auto;">
-  <img src="./ICICI Bank_Co2.jpg" alt="ICICI Bank logo" style="height:56px; width:auto;">
+  <img src="./ICICI_Bank_Co2.jpg" alt="ICICI Bank logo" style="height:56px; width:auto;">
   <img src="./MM_Co3.png" alt="Mahindra & Mahindra logo" style="height:56px; width:auto;">
   <img src="./BLC_Co4.png" alt="BLC logo" style="height:56px; width:auto;">
   <img src="./aranca_logo_Co5.jpg" alt="Aranca logo" style="height:56px; width:auto;">
