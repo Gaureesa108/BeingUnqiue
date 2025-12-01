@@ -33,13 +33,13 @@ Runner-up of Inter-College Quiz Competition, Oranised by the Bombay Management A
 Here are some of the organisations I’ve contributed to:
 
 <div style="display:flex; gap:16px; align-items:center; flex-wrap:wrap;">
-  <img src="./DBS_Bank_logo_logotype_Co1.jpg" alt="DBS Bank logo" style="height:56px; width:auto;">
-  <img src="./ICICI_Bank_Co2.jpg" alt="ICICI Bank logo" style="height:56px; width:auto;">
-  <img src="./MM_Co3.png" alt="MarketsandMarkets logo" style="height:56px; width:auto;">
-  <img src="./BLC_Co4.png" alt="BLC logo" style="height:56px; width:auto;">
-  <img src="./aranca_logo_Co5.jpg" alt="Aranca logo" style="height:56px; width:auto;">
-  <img src="./Invent_Co6.webp" alt="Capgemini Invent logo" style="height:56px; width:auto;">
-  <img src="./nasscom_Co7.png" alt="NASSCOM logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/DBS_Bank_logo_logotype_Co1.jpg" alt="DBS Bank logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/ICICI_Bank_Co2.jpg" alt="ICICI Bank logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/MM_Co3.png" alt="MarketsandMarkets logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/BLC_Co4.png" alt="BLC logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/aranca_logo_Co5.jpg" alt="Aranca logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/Invent_Co6.webp" alt="Capgemini Invent logo" style="height:56px; width:auto;">
+  <img src="https://gaureesa108.github.io/BeingUnique/nasscom_Co7.png" alt="NASSCOM logo" style="height:56px; width:auto;">
 </div>
 
 This blog reflects my journey, ideas, and visuals that celebrate uniqueness.  
