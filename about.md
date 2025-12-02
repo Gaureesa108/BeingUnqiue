@@ -32,12 +32,12 @@ Runner-up of Inter-College Quiz Competition, Oranised by the Bombay Management A
 
 Here are some of the organisations I’ve contributed to:
 
-Nasscom
-Capgemini Invent
-Aranca
-Blue Lotus 
-MarketsandMarkets
-ICICI Bank Ltd.
+Nasscom,
+Capgemini Invent,
+Aranca,
+Blue Lotus, 
+MarketsandMarkets,
+ICICI Bank Ltd.,
 DBS Bank Ltd.
 
 This blog reflects my journey, ideas, and visuals that celebrate uniqueness.  
