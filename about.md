@@ -32,7 +32,15 @@ Runner-up of Inter-College Quiz Competition, Oranised by the Bombay Management A
 
 Here are some of the organisations I’ve contributed to:
 
-
+<!-- Logos block: consistent paths and sizes -->
+<p align="center">
+  <img src="/assets/logos/DBS_Bank_logo_logotype_Co1.jpg" alt="DBS Bank" width="120">
+  <img src="/assets/logos/ICICI_Bank_Co2_2.jpg" alt="ICICI Bank" width="120">
+  <img src="/assets/logos/MarketsandMarkets_Co3.png" alt="MarketsandMarkets" width="120">
+  <img src="/assets/logos/BLC_Co4.png" alt="BLC" width="120">
+  <img src="/assets/logos/aranca_logo_Co5.jpg" alt="Aranca" width="120">
+  <img src="/assets/logos/nasscom_Co7.png" alt="Nasscom" width="120">
+</p>
 
 This blog reflects my journey, ideas, and visuals that celebrate uniqueness.  
 I value clarity, authenticity, and audience-focused storytelling. Welcome to my creative space.
