@@ -32,14 +32,13 @@ Runner-up of Inter-College Quiz Competition, Oranised by the Bombay Management A
 
 Here are some of the organisations I’ve contributed to:
 
-<p align="center">
-  <img src="/being-unique/DBS_Bank_logo_logotype_Co1.jpg" alt="DBS Bank logo" width="120">
-  <img src="/being-unique/ICICI_Bank_Co2_2.jpg" alt="ICICI Bank logo" width="120">
-  <img src="/being-unique/MarketsandMarkets_Co3.png" alt="MarketsandMarkets logo" width="120">
-  <img src="/being-unique/BLC_Co4.png" alt="Bluelotus Communications logo" width="120">
-  <img src="/being-unique/aranca_logo_Co5.jpg" alt="Aranca logo" width="120">
-  <img src="/being-unique/nasscom_Co7.png" alt="NASSCOM logo" width="120">
-</p>
+Nasscom
+Capgemini Invent
+Aranca
+Blue Lotus 
+MarketsandMarkets
+ICICI Bank Ltd.
+DBS Bank Ltd.
 
 This blog reflects my journey, ideas, and visuals that celebrate uniqueness.  
 I value clarity, authenticity, and audience-focused storytelling. Welcome to my creative space.
