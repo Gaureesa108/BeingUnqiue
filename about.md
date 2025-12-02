@@ -28,7 +28,7 @@ Active participation in quiz competitions such as Tata Crucible.
 Winner of Intra-College Quiz Competition, Graduation level.
 Runner-up of Inter-College Quiz Competition, Oranised by the Bombay Management Association, Post Graduation Level.
 
-## Companies I’ve Worked With
+**Companies I’ve Worked With** 
 
 Here are some of the organisations I’ve contributed to:
 
@@ -40,5 +40,25 @@ MarketsandMarkets,
 ICICI Bank Ltd.,
 DBS Bank Ltd.
 
+**Database Known** 
+APQC,
+Bloomberg,
+BMS Helix,
+Business Insider,
+Capital IQ,
+Crunchbase,
+Discover.Org,
+Factiva,
+Forrester,
+Gartner,
+GlobalData,
+IDC,
+Nelson Hall,
+PowerBI,
+Statistica,
+Thomson Reuters,
+Zawya
+
 This blog reflects my journey, ideas, and visuals that celebrate uniqueness.  
+
 I value clarity, authenticity, and audience-focused storytelling. Welcome to my creative space.
